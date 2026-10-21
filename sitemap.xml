@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
- <url><loc>https://YOUR-DOMAIN.example/</loc></url>
- <url><loc>https://YOUR-DOMAIN.example/privacy.html</loc></url>
- <url><loc>https://YOUR-DOMAIN.example/terms.html</loc></url>
- <url><loc>https://YOUR-DOMAIN.example/contact.html</loc></url>
+  <url>
+    <loc>https://luizclaudiojmaia-creator.github.io/tinydollartools/</loc>
+  </url>
+  <url>
+    <loc>https://luizclaudiojmaia-creator.github.io/tinydollartools/privacy.html</loc>
+  </url>
+  <url>
+    <loc>https://luizclaudiojmaia-creator.github.io/tinydollartools/terms.html</loc>
+  </url>
+  <url>
+    <loc>https://luizclaudiojmaia-creator.github.io/tinydollartools/contact.html</loc>
+  </url>
 </urlset>
